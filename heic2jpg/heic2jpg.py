@@ -1,15 +1,21 @@
 import os
+import argparse
 from PIL import Image
 import pillow_heif
 
 # Register HEIC support
 pillow_heif.register_heif_opener()
 
+# Setup argument parser
+parser = argparse.ArgumentParser(description="Convert HEIC images to JPG format.")
+parser.add_argument("--heic_folder", default="./heic/", help="Input folder containing HEIC images")
+args = parser.parse_args()
+
 # Get the directory of the current script
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Define input and output folders
-heic_folder = os.path.join(script_dir, "heic")
+heic_folder = args.heic_folder
 jpg_folder = os.path.join(script_dir, "jpg")
 
 # Create jpg folder if it doesn't exist
