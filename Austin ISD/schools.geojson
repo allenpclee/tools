@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westlake High School",
+        "isd": "Eanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8125235,
+          30.2756116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barton Creek Elementary",
+        "isd": "Eanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8798145,
+          30.303063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hill Country Middle School",
+        "isd": "Eanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.803667,
+          30.271336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dripping Springs High School",
+        "isd": "Dripping Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.083568,
+          30.1794599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sycamore Springs Middle School",
+        "isd": "Dripping Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.11517,
+          30.20205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rooster Springs Elementary",
+        "isd": "Dripping Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9829,
+          30.1922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vandegrift High School",
+        "isd": "Leander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8245284,
+          30.3979373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vista Ridge High School",
+        "isd": "Leander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.787859,
+          30.516511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cedar Park High School",
+        "isd": "Leander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8431343,
+          30.4719392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Travis High School",
+        "isd": "Lake Travis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.97,
+          30.3274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Travis Middle School",
+        "isd": "Lake Travis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.96687,
+          30.32796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serene Hills Elementary",
+        "isd": "Lake Travis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.00064,
+          30.34758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liberty Hill High School",
+        "isd": "Liberty Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.954,
+          30.6825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liberty Hill Middle School",
+        "isd": "Liberty Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9023,
+          30.661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rancho Sienna Elementary",
+        "isd": "Liberty Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.68758,
+          30.64887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westwood High School",
+        "isd": "Round Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7978,
+          30.4561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McNeil High School",
+        "isd": "Round Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7335882,
+          30.4497313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon Creek Elementary",
+        "isd": "Round Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.82445,
+          30.4352
+        ]
+      }
+    }
+  ]
+}
